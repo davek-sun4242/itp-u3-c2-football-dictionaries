@@ -149,3 +149,7 @@ def test_assignment_3():
         'position': 'MF',
         'year': '2014'
     }
+
+
+#test_assignment_1()
+test_assignment_2()
